@@ -1,3 +1,3 @@
 # Sobel.IO
 
-We are Sobel.IO, a collective of tech professionals passionate about building great products. We work to simplify the complex, and take on challenges that others might not.
+Sobel.IO is a boutique consulting firm working in the space of mlops/platform engineering/ai
