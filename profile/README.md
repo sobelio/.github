@@ -1,3 +1,3 @@
-# Sobel.IO
+# Sobel Software Research
 
-Sobel.IO is a boutique consulting firm working in the space of mlops/platform engineering/ai
+We're a Software research firm
